@@ -1,5 +1,5 @@
 """
-ELASTODYNAMICS: Generalised-alpha method, traction forces / displacement loading.
+ELASTODYNAMICS: Generalised-alpha method & Newmark-beta method, traction forces / displacement loading.
 Author: Dr. Miguel Angel Moreno-Mateos
 """
 #Import: not necessary to specify it later
